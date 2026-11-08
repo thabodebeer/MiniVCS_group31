@@ -1,0 +1,3 @@
+Meeting notes
+- Agree on the class diagram
+- Split the work between the team
