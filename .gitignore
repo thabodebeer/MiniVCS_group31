@@ -1,0 +1,12 @@
+
+# NetBeans / Ant build output
+build/
+dist/
+nbproject/private/
+
+# MiniVCS data created when you run the demo
+.minivcs/
+
+# OS files
+.DS_Store
+Thumbs.db
